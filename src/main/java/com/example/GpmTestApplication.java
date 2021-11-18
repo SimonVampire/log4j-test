@@ -23,6 +23,6 @@ public class GpmTestApplication {
 	@RequestMapping("index")
 	@ResponseBody
 	public String sayHi() throws IOException {
-		return "Hello,我是demosdsadsadsad";
+		return "Hello,我是demosdsadsasdsdssdsad";
 	}
 }
